@@ -217,7 +217,7 @@ else
 }
 ```
 
-## 🇲🇦 Author
+## Author
 
 * [Facebook Profile](https://web.facebook.com/dvhamham)
 * [GitHub Profile](https://github.com/dvhamham)
