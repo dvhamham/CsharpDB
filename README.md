@@ -87,7 +87,7 @@ ID | fName | lName | email | country
     DB.MParam.Add("ID", 60);
     DB.MParam.Add("fName", "Yassine");
     DB.MParam.Add("lName", "Rachidi");
-    DB.Update("users", "country='spain'");
+    DB.Update("users", "country='Spain'");
   }
 ```
  ###### `Result`
