@@ -5,7 +5,7 @@
 2. Implement on top this namespace `using Hamham`
 3. You need to declare the connection with your server
 ```csharp
-DB.MConnectionString = @"Data Source=DESKTOP-3TE8Q9C\MSSQLSERVER01;Initial Catalog=ddd;Integrated Security=True";
+DB.MConnectionString = "Your connection";
  ```
 <br />
 
