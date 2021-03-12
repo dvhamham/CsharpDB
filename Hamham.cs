@@ -68,7 +68,7 @@ namespace Hamham
                 }
                 else
                 {
-                    throw new Exception("Please add parameters before insert");
+                    throw new Exception("Please fill parameter (MParam)");
                 }
             }
             catch (Exception e)
@@ -113,7 +113,7 @@ namespace Hamham
                     }
                     else
                     {
-                        throw new Exception("Please add parameters before insert");
+                        throw new Exception("Please fill parameter (MParam)");
                     }
                 }
                 else
