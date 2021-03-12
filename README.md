@@ -4,6 +4,7 @@
 1. To implement this class, create new class in your project then copy all the code off class **Hamham.cs** and past it into your class.
 2. Implement on top this namespace `using Hamham`
 <br />
+
 ###### Now you can use this class everywhere in your project like these example.
 
 ###### Table `users`
