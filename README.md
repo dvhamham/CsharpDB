@@ -147,7 +147,7 @@ Rachid | Ettouti
   private void button_Click(object sender, EventArgs e)
   {
     var textBox = "Jama";
-    DB.Select("users","*",$"fName LIKE { textBox } OR lName LIKE { textBox } OR email LIKE { textBox } OR country LIKE { textBox }");
+    DB.Select("users","*",$"fName LIKE %{ textBox }% OR lName LIKE %{ textBox }% OR email LIKE %{ textBox }% OR country LIKE %{ textBox }%");
   }
  ```
  ###### `Result`
@@ -168,7 +168,7 @@ ID | fName | lName | email | country
     var ln = "Ettouti";
     var em = "rettouti";
     var co = "gyp";
-    DB.Select("users","fName, email",$"fName LIKE { fn } AND lName LIKE { ln } AND email LIKE { em } AND country LIKE { co }");
+    DB.Select("users","fName, email",$"fName LIKE %{ fn }% AND lName LIKE %{ ln }% AND email LIKE %{ em }% AND country LIKE %{ co }%");
   }
  ```
   ###### `Result`
