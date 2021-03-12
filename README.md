@@ -225,4 +225,4 @@ else
 
 ## License
 
-Copyright © 2018, [Mohamed Hamham](http://hamham.me/). Released under the [MIT License](https://github.com/dvhamham/CsharpDB/blob/main/LICENSE).
+Copyright © 2021, [Mohamed Hamham](http://hamham.me/). Released under the [MIT License](https://github.com/dvhamham/CsharpDB/blob/main/LICENSE).
