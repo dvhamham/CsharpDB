@@ -2,9 +2,8 @@
 ###### C# database management class.
 ###### This class will help you to handle your database easily and quickly with.
 1. To implement this class, create new class in your project then copy all the code off class **Hamham.cs** and past it into your class.
-
-Implement on top this namespace `using Hamham`
-
+2. Implement on top this namespace `using Hamham`
+<br />
 ###### Now you can use this class everywhere in your project like these example.
 
 ###### Table `users`
