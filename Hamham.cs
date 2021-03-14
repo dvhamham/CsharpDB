@@ -201,7 +201,7 @@ namespace Hamham
                     }
                 }
             }
-            catch (System.Exception e)
+            catch (Exception e)
             {
                 throw new Exception(e.Message);
             }
