@@ -13,6 +13,7 @@ DB.MConnectionString = "Your connection";
 
 ## Table `users`
 <br/>
+
 ID | fName | lName | email | country
 -- | ----- | ------| ------- | ------
 1 | Mohammed | Hamham | dv.hamham@gmail.com | Morocco
