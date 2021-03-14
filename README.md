@@ -11,7 +11,8 @@ DB.MConnectionString = "Your connection";
 
 ###### Now you can use this class everywhere in your project like these example.
 
-###### Table `users`
+## Table `users`
+
 ID | fName | lName | email | country
 -- | ----- | ------| ------- | ------
 1 | Mohammed | Hamham | dv.hamham@gmail.com | Morocco
