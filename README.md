@@ -21,8 +21,7 @@ ID | fName | lName | email | country
 4 | Jamal | Bensaad | dv.bensaad@gmail.com | Morocco
 5 | Rachid | Ettouti | rettouti@gmail.com | Egypt
 
-<br /><br />
-
+<br/><br/>
 ## Insert new user
 <br/>
 
@@ -48,11 +47,9 @@ ID | fName | lName | email | country
 5 | Rachid | Ettouti | rettouti@gmail.com | Egypt
 **_6_** | **_Kamal_** | **_Nassiri_** | **_k.nassiri@gmail.com_** | **_Libya_**
 
-<br /><br />
-
-> 
-> # Delete user
-> 
+<br/><br/>
+## Delete user
+<br/>
 
 ```csharp
   private void button_Click(object sender, EventArgs e)
@@ -68,11 +65,9 @@ ID | fName | lName | email | country
 2 | Thomas | Aubry | taubry@gmail.com | France
 4 | Jamal | Bensaad | dv.bensaad@gmail.com | Morocco
 
-<br /><br />
-
-> 
-> # Update users
-> 
+<br/><br/>
+## Update users
+<br/>
 
 ```csharp
   private void button_Click(object sender, EventArgs e)
@@ -99,11 +94,9 @@ ID | fName | lName | email | country
 4 | Jamal | Bensaad | dv.bensaad@gmail.com | Morocco
 5 | Rachid | Ettouti | rettouti@gmail.com | Egypt
 
-<br /><br />
-
-> 
-> # Select all
-> 
+<br/><br/>
+## Select all
+<br/>
 
 ```csharp
   private void button_Click(object sender, EventArgs e)
@@ -120,11 +113,9 @@ ID | fName | lName | email | country
 4 | Jamal | Bensaad | dv.bensaad@gmail.com | Morocco
 5 | Rachid | Ettouti | rettouti@gmail.com | Egypt
 
-<br /><br />
-
-> 
-> # Select specific columns
-> 
+<br/><br/>
+## Select specific columns
+<br/>
 
 ```csharp
   private void button_Click(object sender, EventArgs e)
@@ -141,11 +132,9 @@ Benard | Perret
 Jamal | Bensaad
 Rachid | Ettouti
 
-<br /><br />
-
-> 
-> # Search in all columns
-> 
+<br/><br/>
+## Search in all columns
+<br/>
 
 ```csharp
   private void button_Click(object sender, EventArgs e)
@@ -159,11 +148,9 @@ ID | fName | lName | email | country
 -- | ----- | ------| ------- | ------
 4 | Jamal | Bensaad | dv.bensaad@gmail.com | Morocco
 
-<br /><br />
-
-> 
-> # Multi search
-> 
+<br/><br/>
+## Multi search
+<br/>
 
 ```csharp
   private void button_Click(object sender, EventArgs e)
@@ -180,11 +167,9 @@ fName | email
 -- | ----- 
 Rachid | rettouti@gmail.com
 
-<br /><br />
-
-> 
-> # Get number of rows
-> 
+<br/><br/>
+## Get number of rows
+<br/>
 
 ```csharp
   private void button_Click(object sender, EventArgs e)
@@ -196,15 +181,9 @@ Rachid | rettouti@gmail.com
   ###### `Result`
 Alert with number of rows `5`
 
-
-<br />
-
-<hr>
-<br />
-
-> 
-> # Example login
-> 
+<br/><br/>
+## Example login
+<br/>
 
 ```csharp
 var textBoxEmail    = "dv.hamham@gmail.com";
