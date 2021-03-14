@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
@@ -10,7 +10,7 @@ namespace Hamham
     /// <para>Email     : dv.hamham@gmail.com</para>
     /// <para>Website   : hamhame.me</para>
     /// </summary>
-    class DB : MDHM
+    public class DB : MDHM
     {
         public static Dictionary<string, dynamic> MParam = new Dictionary<string, dynamic>();
 
@@ -19,6 +19,7 @@ namespace Hamham
             get { return MConnString; }
             set { MConnString = value; }
         }
+        public string name = "Bonjour";
 
         //
         // Select
@@ -167,7 +168,7 @@ namespace Hamham
     /// <summary>
     /// <para>Data access</para>
     /// </summary>
-    class MDHM
+  public  class MDHM
     {
         //
         // Connection string
