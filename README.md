@@ -3,7 +3,7 @@
 ###### This class will help you to handle your database easily and quickly.
 1. To implement this class, create new class in your project then copy all the code off class **Hamham.cs** and past it into your class.
 2. On top put this namespace `using Hamham`
-3. Then you need to declare the connection with your server.
+3. Then you need to declare the connection with your server `On initialize`.
 ```csharp
 DB.MConnectionString = "Your connection";
  ```
