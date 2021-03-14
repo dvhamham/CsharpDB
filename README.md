@@ -7,12 +7,12 @@
 ```csharp
 DB.MConnectionString = "Your connection";
  ```
-<br />
+<br/>
 
 ###### Now you can use this class everywhere in your project like these example.
 
 ## Table `users`
-
+<br/>
 ID | fName | lName | email | country
 -- | ----- | ------| ------- | ------
 1 | Mohammed | Hamham | dv.hamham@gmail.com | Morocco
@@ -23,9 +23,8 @@ ID | fName | lName | email | country
 
 <br /><br />
 
-> 
-> # Insert new user
-> 
+## Insert new user
+<br/>
 
 ```csharp
   private void button_Click(object sender, EventArgs e)
