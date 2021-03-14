@@ -1,7 +1,7 @@
 ## Documentation.
 
 ###### This class will help you to handle your database easily and quickly.
-1. To implement this class, create new class in your project then copy all the code off class **Hamham.cs** and past it into your class or download class as **DLL** reference from **[Here](https://github.com/dvhamham/CsharpDB/raw/main/Hamham.dll)** and add it to your refernce.
+1. To implement this class, create new class in your project then copy all the code off class **Hamham.cs** and past it into your class or download class as **DLL** reference from **[Here](https://github.com/dvhamham/CsharpDB/raw/main/Hamham.dll)** and add it into your refernces.
 2. On top put this namespace `using Hamham`
 3. Then you need to fill this variable with your string connection `On initialize`.
 ```csharp
