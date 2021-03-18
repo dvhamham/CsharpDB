@@ -19,7 +19,6 @@ namespace Hamham
             get { return MConnString; }
             set { MConnString = value; }
         }
-        public string name = "Bonjour";
 
         //
         // Select
