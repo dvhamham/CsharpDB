@@ -1,6 +1,6 @@
 ## Documentation.
 
-###### This class will help you to handle your database easily and quickly.
+###### This reference will help you to handle your database easily and quickly.
 1. Download **DLL** reference **[DBmanager](https://github.com/dvhamham/CsharpDB/raw/main/DBmanager.rar)** and add it into your refernces.
 2. Add namespace `using DBmanager`
 3. initialize your **Connection string**.
