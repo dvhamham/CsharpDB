@@ -5,7 +5,7 @@
 2. Add namespace `using DBmanager`
 3. Initialize your `Connection string`.
 ```csharp
-DB.MConnectionString = "Your connection ";
+DB.MConnectionString = "Your connection";
  ```
 <br/>
 
